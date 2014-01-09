@@ -2,7 +2,7 @@
 > Collection of awesome grunt plugins.
 
 ## Getting Started
-This plugin requires Grunt `~0.4.0`
+These plugins require Grunt `~0.4.0`
 
 If you haven't used [Grunt](http://gruntjs.com/) before, be sure to check out the [Getting Started](http://gruntjs.com/getting-started) guide, as it explains how to create a [Gruntfile](http://gruntjs.com/sample-gruntfile) as well as installing and using Grunt plugins. Once you're familiar with that process, check out these awesome plugins listed below as it will drastically improve your workflow.
 
