@@ -7,7 +7,7 @@ These plugins require Grunt `~0.4.0`
 If you haven't used [Grunt](http://gruntjs.com/) before, be sure to check out the [Getting Started](http://gruntjs.com/getting-started) guide, as it explains how to create a [Gruntfile](http://gruntjs.com/sample-gruntfile) as well as installing and using Grunt plugins. Once you're familiar with that process, check out these awesome plugins listed below as it will drastically improve your workflow.
 
 ### Overview
-As of now, this collection contains 5 plugins. This list is made available as a convinience for first-time users wanting to find out useful plugin to drastically improve their workflow. 
+As of now, this collection contains 5 plugins. This list is made available as a convinience for first-time users wanting to find out useful plugins to drastically improve their workflow. 
 
 A listing of each plugin and the current version included in this package is listed below.
 
