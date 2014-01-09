@@ -1,7 +1,7 @@
 # Awesome Grunt Plugins v0.0.2
 > Collection of awesome grunt plugins.
 
-[Grunt](https://1.gravatar.com/avatar/801a04ad77406f5ba958a607f2b27880?d=https%3A%2F%2Fidenticons.github.com%2F4e4819fe606f4444e784c9db7413ec4e.png&r=x&s=400)
+[![Grunt](https://1.gravatar.com/avatar/801a04ad77406f5ba958a607f2b27880?d=https%3A%2F%2Fidenticons.github.com%2F4e4819fe606f4444e784c9db7413ec4e.png&r=x&s=400)](http://gruntjs.com/)
 
 
 ## Getting Started
