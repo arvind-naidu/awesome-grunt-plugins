@@ -1,5 +1,4 @@
 # Awesome Grunt Plugins v0.0.1
----
 > Collection of awesome grunt plugins.
 
 ## Getting Started
